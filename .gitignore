@@ -1,2 +1,3 @@
 /**/*.log
 /**/user_manual
+.DS_Store
