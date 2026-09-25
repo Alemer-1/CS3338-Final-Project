@@ -1,5 +1,5 @@
-/**/*.log
-/**/user_manual
-.DS_Store
+*.log
+/**/User_Manual
 *-*.txt
 styles.css
+**/*/README.md
